@@ -1,0 +1,6 @@
+{
+  "versionCode": 14,
+  "versionName": "0.2.14",
+  "apk": "Ups-v0.2.14.apk",
+  "notas": "Animaciones más fluidas y ágiles\n\n- La app instalada ahora es la build optimizada (release con R8 y perfiles de Compose): antes se publicaba la versión de depuración, que Android ejecuta casi sin optimizar.\n- El fondo, el campo de energía y los brillos que respiran van a la velocidad de la pantalla (120 Hz en el Fold), no a 20 fps.\n- Tiempos del motion ~30 % más cortos: abrir tarjetas, cifras que cuentan, gráficos, entrada y cambio de tema."
+}
